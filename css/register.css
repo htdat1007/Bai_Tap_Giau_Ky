@@ -1,0 +1,21 @@
+.custom_title {
+    font-family: "Open Sans", sans-serif !important;
+    color: #ffa500;
+    font-size: 30px;
+    font-weight: normal !important;
+    font-style: normal;
+    letter-spacing: 1px;
+}
+
+.content-form-page {
+    font-family: "Open Sans", sans-serif !important;
+    font-weight: normal !important;
+}
+
+label {
+    font-weight: normal !important;
+}
+
+.require {
+    color: red;
+}
